@@ -1,0 +1,6 @@
+@qa_portal_apis_HostAddress = https://localhost:5075
+
+GET {{qa_portal_apis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
